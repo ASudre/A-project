@@ -1,0 +1,19 @@
+{
+  "name": "slot_xke_git",
+  "version": "1.0.0",
+  "description": "xke slot",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASudre/A-project.git"
+  },
+  "author": "Arthur Sudre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASudre/A-project/issues"
+  },
+  "homepage": "https://github.com/ASudre/A-project#readme"
+}
