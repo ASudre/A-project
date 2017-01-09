@@ -1,3 +1,6 @@
-/**
- * Created by pgdejardin on 09/01/2017.
- */
+
+function StoryTwoService() {}
+
+StoryTwoService.prototype.getStory = function(name) {
+  return 'Your story is ' + name;
+};
