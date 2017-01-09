@@ -1,6 +1,14 @@
 <html>
+<head>
+  <script src="index.js"></script>
+  <script src="StoryTwoService.js"></script>
+  <script>
+    document.onload(function() {
+       document.msg = StoryTwoService.getStory('My Story');
+    });
+  </script>
+</head>
 <body>
-<script src="index.js"></script>
 <button onclick="hello()">Click on me!</button>
 </body>
 </html>
