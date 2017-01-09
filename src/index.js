@@ -1,4 +1,4 @@
 
 function hello() {
-  return 'Hello Arthur';
+  return alert('Hello Arthur');
 }
